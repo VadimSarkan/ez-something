@@ -1,0 +1,6 @@
+name=
+pass=
+email=
+login=
+
+key=
