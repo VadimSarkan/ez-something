@@ -1,6 +1,0 @@
-user=
-pass=
-email=
-host=
-
-key=
