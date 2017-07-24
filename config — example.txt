@@ -1,0 +1,6 @@
+name=Vasya
+pass=1241
+login=zzdg
+email=gsgs@mail.com
+
+key=asgak311313gjdpsg1311jsdglsnd13gpsdgasg
